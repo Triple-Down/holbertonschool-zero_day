@@ -1,1 +1,1 @@
-Stuck in an a infinite loop! # holbertonschool-zero_day
+Stuck in an infinite loop! # holbertonschool-zero_day
