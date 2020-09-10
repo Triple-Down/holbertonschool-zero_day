@@ -1,2 +1,2 @@
-Stuck in an infinitel loop_# holbertonschool-zero_day
+Stuck in an a infinitel loop # holbertonschool-zero_day
 # holberton-zero_day
