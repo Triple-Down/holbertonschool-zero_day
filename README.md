@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HELLO UBUNTU
+=======
+HELLO UBUNTU
+>>>>>>> 600a1bc9a8611c227aa7c818c82b6159654b4c1d
